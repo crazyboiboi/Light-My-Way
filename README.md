@@ -1,5 +1,5 @@
 # Light-My-Way
-A 2D platformer game with various of challenges and levels (demo levels currently).
+A 2D platformer game with various challenges and levels (demo levels currently).
 
 ## Game Description
 ![Annotation 2019-12-07 130418](https://user-images.githubusercontent.com/32148889/70376462-474b4b80-1901-11ea-9c00-1a5dad80be8f.png)
